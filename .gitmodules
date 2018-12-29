@@ -1,0 +1,102 @@
+[submodule "BashBunny3"]
+	path = BashBunny3
+	url = https://github.com/dustyfresh/BashBunny
+[submodule "bashbunny--payloads"]
+	path = bashbunny--payloads
+	url = https://github.com/Panz05/bashbunny--payloads
+[submodule "Custom-BashBunny-Payloads"]
+	path = Custom-BashBunny-Payloads
+	url = https://github.com/danthegoodman1/Custom-BashBunny-Payloads
+[submodule "BashBunny5"]
+	path = BashBunny5
+	url = https://github.com/payload82517/BashBunny
+[submodule "bashbunny-payloads2"]
+	path = bashbunny-payloads2
+	url = https://github.com/5h4d0wb0y/bashbunny-payloads
+[submodule "BBTPS"]
+	path = BBTPS
+	url = https://github.com/PoSHMagiC0de/BBTPS
+[submodule "RevShellBack"]
+	path = RevShellBack
+	url = https://github.com/NodePoint/RevShellBack
+[submodule "BashBunnyScripts"]
+	path = BashBunnyScripts
+	url = https://github.com/p3rki3/BashBunnyScripts
+[submodule "BashBunny-Projects"]
+	path = BashBunny-Projects
+	url = https://github.com/DennisVeninga/BashBunny-Projects
+[submodule "bashbunny_multi-platform_payload"]
+	path = bashbunny_multi-platform_payload
+	url = https://github.com/birkhoffcheng/bashbunny_multi-platform_payload
+[submodule "HoppEye"]
+	path = HoppEye
+	url = https://github.com/H8to/HoppEye
+[submodule "BashBunny4"]
+	path = BashBunny4
+	url = https://github.com/BinaryWasp/BashBunny
+[submodule "HIDAAF"]
+	path = HIDAAF
+	url = https://github.com/SkiddieTech/HIDAAF
+[submodule "bashbunnyscripts"]
+	path = bashbunnyscripts
+	url = https://github.com/nathanbuckley/bashbunnyscripts
+[submodule "WindowsCookies"]
+	path = WindowsCookies
+	url = https://github.com/oXis/WindowsCookies
+[submodule "JackGrabbit"]
+	path = JackGrabbit
+	url = https://github.com/ll3N1GmAll/JackGrabbit
+[submodule "BashBunny6"]
+	path = BashBunny6
+	url = https://github.com/InvaderSquibs/BashBunny
+[submodule "bashbunny-payloads1"]
+	path = bashbunny-payloads1
+	url = https://github.com/quentinlamamy/bashbunny-payloads
+[submodule "dryClean"]
+	path = dryClean
+	url = https://github.com/ricky5ive/dryClean
+[submodule "mimiWIN8-BashBunny"]
+	path = mimiWIN8-BashBunny
+	url = https://github.com/DeDogeGod/mimiWIN8-BashBunny
+[submodule "Payloads"]
+	path = Payloads
+	url = https://github.com/Popvar/Payloads
+[submodule "bashbunny2"]
+	path = bashbunny2
+	url = https://github.com/juancv/bashbunny
+[submodule "BashBunny-Keylogger-Netcat"]
+	path = BashBunny-Keylogger-Netcat
+	url = https://github.com/Anthony-Figi/BashBunny-Keylogger-Netcat
+[submodule "invoke-vnc-bashbunny-payload"]
+	path = invoke-vnc-bashbunny-payload
+	url = https://github.com/El3ct71k/invoke-vnc-bashbunny-payload
+[submodule "BBunny-Text-DDoS"]
+	path = BBunny-Text-DDoS
+	url = https://github.com/lschumm/BBunny-Text-DDoS
+[submodule "Hak5-bashbunny-VPN-injection"]
+	path = Hak5-bashbunny-VPN-injection
+	url = https://github.com/neilgonzalez/Hak5-bashbunny-VPN-injection
+[submodule "BashBunny2"]
+	path = BashBunny2
+	url = https://github.com/CIPH3R0/BashBunny
+[submodule "Excalibur"]
+	path = Excalibur
+	url = https://github.com/Dviros/Excalibur
+[submodule "bashbunny-payloads"]
+	path = bashbunny-payloads
+	url = https://github.com/fratervi/bashbunny-payloads
+[submodule "BashBunny7"]
+	path = BashBunny7
+	url = https://github.com/hanshaze/BashBunny
+[submodule "bashbunny"]
+	path = bashbunny
+	url = https://github.com/dronus4x4/bashbunny
+[submodule "BashBunny1"]
+	path = BashBunny1
+	url = https://github.com/xillwillx/BashBunny
+[submodule "bashbunny1"]
+	path = bashbunny1
+	url = https://github.com/JakeBernier/bashbunny
+[submodule "bash-bunny-studio"]
+	path = bash-bunny-studio
+	url = https://github.com/bg-wa/bash-bunny-studio
