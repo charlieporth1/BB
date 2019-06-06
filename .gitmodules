@@ -100,3 +100,6 @@
 [submodule "bash-bunny-studio"]
 	path = bash-bunny-studio
 	url = https://github.com/bg-wa/bash-bunny-studio
+[submodule "router_badusb"]
+	path = router_badusb
+	url = https://github.com/tenable/router_badusb
